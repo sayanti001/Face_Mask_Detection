@@ -61,7 +61,3 @@ If you encounter any issues related to CUDA or GPU, try running the script on CP
 ```python
 model.load_state_dict(torch.load(model_path, map_location=torch.device('cpu')))
 ```
-
-## License
-
-This project is open-source and available under the MIT License.

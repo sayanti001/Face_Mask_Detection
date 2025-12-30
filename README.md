@@ -1,3 +1,8 @@
+## Dataset
+
+This project uses the **Face Mask Detection** dataset from Kaggle:  
+🔗 https://www.kaggle.com/datasets/andrewmvd/face-mask-detection
+
 # Face Mask Detection Script
 
 This script uses a pre-trained PyTorch model to detect whether a person in an image is wearing a face mask, wearing it incorrectly, or not wearing a mask at all.
